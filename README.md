@@ -1,4 +1,4 @@
-<img src='https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif' alt="banner"></img>
+<img src='[https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/download.gif)' alt="banner"></img>
 <h1 align="center">Hi 👋, I'm Yash Lalwani</h1>
 <h3 align="center">Inquisitive, energetic computer science specialist</h3>
 <img align="right" alt="Coding" width="400" src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad.gif">
