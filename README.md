@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+<img src='https://chromedino.com/img/chrome_dino_runner.png' alt="banner"></img>
 <h1 align="center">Hi 👋, I'm Yash Lalwani</h1>
 <h3 align="center">Inquisitive, energetic computer science specialist</h3>
 <img align="right" alt="Coding" width="400" src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad.gif">
